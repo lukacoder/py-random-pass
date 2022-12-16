@@ -2,7 +2,7 @@ import random
 Chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789!@#$%^&*()"
 print("---------------------------------------------")
 print("")
-print("Kedy.Coder")
+print("LUKACODER")
 print("")
 print("---------------------------------------------")
 password_len = int(input("Şifre kaç karakterden oluşturulsun : "))
