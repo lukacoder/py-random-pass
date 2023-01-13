@@ -1,10 +1,14 @@
 import random
 Chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789!@#$%^&*()"
-print("---------------------------------------------")
-print("")
-print("LUKACODER")
-print("")
-print("---------------------------------------------")
+print(
+"""
+---------------------------------------------
+-                                           -
+-                LukaCoder                  -
+-                                           -
+---------------------------------------------
+""")
+
 password_len = int(input("Şifre kaç karakterden oluşturulsun : "))
 password_count = int(input("Kaç adet şifre oluşturulsun : "))
 for x in range(0, password_count):
